@@ -9,7 +9,7 @@ include("library/class_email_sender.php");
 <head>
 	<meta charset="UTF-8">
     <meta http-equiv="YarraTadZ - ... and delivered " content="IE=edge,chrome=1">
-	<title>YarraTadZ - ... Coming Soon</title>
+	<title>YarraTadZ - ... Coming soon</title>
 	<!-- Favicons -->
     <link rel="shortcut icon" href="ytfavicon.ico">
   <!-- Mobile -->
